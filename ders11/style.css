@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0; 
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.anadiv {
+    width: 80%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px 0 20px;
+    position: fixed;
+    z-index: 1;
+}
+
+.bala1 nav ul {
+    display: flex;
+    gap: 25px;
+}
+
+.baladiv a {
+    font-size: 30px;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    color: red;
+}
+
+.pinter {
+    color: red;
+}
+
+.img1 {
+    width: 100%;
+    height: 850px;
+}
+
+.brown {
+    width: 40%;
+    height: 850px;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.and {
+    color: white;
+    font-size: 40px;
+}
+
+.metn {
+    width: 50%;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+}
+
+.metn1 span {
+    color: white;
+}
+
+button {
+    width: 130px;
+    height: 40px;
+    font-size:15px;
+}
+.point{
+    color: red;
+    font-size: 90px;
+    position: absolute;
+    left: 5px;
+    bottom: -4.5px;
+}
+.get img {
+    width: 300px;
+    height: 400px;
+}
+
+.but1 {
+    width: 70%;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+     justify-content: space-between;
+}
+
+.but {
+    align-items: center;
+}
+
+.but img {
+    width: 500px;
+    height: 400px;
+}
+
+.but2 {
+    width: 400px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+.font{
+    font-size: 30px;
+}
+.font1{
+   color: red;
+   font-size: large;
+}
+.font2{
+    font-size: 19px;
+}
